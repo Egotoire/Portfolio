@@ -8,4 +8,4 @@
 ## Итог исследования:
 
 ## Стек технологий:
-Python, Pandas, Matplotlib, NumPy, Scikit-learn, Seaborn, NLTK, tf-idf, re, CatBoost, XGBoost, LightGBM, BERT
+Python, Pandas, Matplotlib, NumPy, Scikit-learn, Seaborn, NLTK, tf-idf, re, CatBoost, XGBoost, LightGBM, BERT, WordCloud
