@@ -3,7 +3,7 @@
 
 **Языки программирования:** `Python`, `SQL`
 
-**IDE:** `Jupyter Notebook`, `Visual Studio Code`
+**IDE:** `Jupyter Notebook`, `Visual Studio Code`, `Google Colab`
 
 
 :mortar_board: [Диплом о профессиональной переподготовке «Специалист по Data Science»]()
