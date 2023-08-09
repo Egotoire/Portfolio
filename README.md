@@ -21,7 +21,7 @@
 | 09 | [Прогнозирование количество заказов такси](https://github.com/Egotoire/Portfolio/tree/main/09_time_series) | Построение модели прогнозирования количества заказов такси на следующий час, чтобы привлекать больше водителей в период пиковой нагрузки. | `pandas`, `matplotlib`, `numpy`, `scikit-learn`, `seaborn`, `catboost`, `sarima` | 
 | 10 | [Обучение модели классификации комментариев]() | Построение модели NLP для поиска токсичных комментарии и отправки их на модерацию | `matplotlib`, **`nltk`**, `numpy`, `pandas`, `plotly`, `re`, `scikit-learn`, **`wordcloud`**, **`BERT`** |
 | 11 | [Определение возраста покупателей](https://github.com/Egotoire/Portfolio/blob/main/11_CV/README.md) | Построение модели, которая по фотографии определит приблизительный возраст человека. | `pandas` , `matplotlib`, `numpy`, `seaborn`, **`keras`** |
-| 12 | [Определение температуры стали]() | Для оптимизации производственных расходов постороить модель, которая предскажет температуру стали. | `pandas`, `matplotlib`, `numpy`, `scikit-learn`, `seaborn`, `catboost`, `xgboost`, `lightgbm` |
+| 12 | [Определение температуры стали](https://github.com/Egotoire/Portfolio/blob/main/12_bulk/README.md) | Для оптимизации производственных расходов постороить модель, которая предскажет температуру стали. | `pandas`, `matplotlib`, `numpy`, `scikit-learn`, `seaborn`, `catboost`, `xgboost`, `lightgbm` |
 | 13 | | | |
 
 ## Контакты
