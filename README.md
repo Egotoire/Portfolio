@@ -20,7 +20,3 @@
 | 08 | [Прогнозирование количество заказов такси](https://github.com/Egotoire/Portfolio/tree/main/09_time_series) | Построение модели прогнозирования количества заказов такси на следующий час, чтобы привлекать больше водителей в период пиковой нагрузки. | `pandas`, `matplotlib`, `numpy`, `scikit-learn`, `seaborn`, `catboost`, `sarima` | 
 | 09 | [Определение возраста покупателей](https://github.com/Egotoire/Portfolio/blob/main/11_CV/README.md) | Построение модели, которая по фотографии определит приблизительный возраст человека. | `pandas` , `matplotlib`, `numpy`, `seaborn`, **`keras`** |
 | 10 | [Определение температуры стали](https://github.com/Egotoire/Portfolio/blob/main/12_bulk/README.md) | Для оптимизации производственных расходов постороить модель, которая предскажет температуру стали. | `pandas`, `matplotlib`, `numpy`, `scikit-learn`, `seaborn`, `catboost`, `xgboost`, `lightgbm` |
-
-## Контакты
-[e-mail](gri9orek@yandex.ru) 
-:small_blue_diamond: [Telegram](t-do.ru/egotoire)
