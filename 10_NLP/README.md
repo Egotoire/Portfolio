@@ -7,7 +7,7 @@
 Построить модель со значением метрики качества F1 не меньше 0.75.
 
 ## Итог исследования:
-Исходя из полученных метрик качества моделей, лучшая модель на RandomizedSearchCV - LightGBM c параметрами max_depth: 25, learning_rate: 0.3. Необходимые метрики достигнуты - F1 = 0.755.
+Исходя из полученных метрик качества моделей, лучшей оказалась модель BERT, которая дает результат F1 = 0.841.
 
 ## Стек технологий:
-Pandas, matplotlib, numpy, scikit-learn, seaborn, NLTK, re, CatBoost, XGBoost, LightGBM
+Pandas, matplotlib, numpy, scikit-learn, seaborn, NLTK, re, CatBoostClassifier, Word2Cloud, BERT
