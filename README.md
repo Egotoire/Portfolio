@@ -23,4 +23,4 @@
 | 11 | [Определение температуры стали](https://github.com/Egotoire/Portfolio/tree/main/12_bulk) | Для оптимизации производственных расходов постороить модель, которая предскажет температуру стали. | `pandas`, `matplotlib`, `numpy`, `scikit-learn`, `seaborn`, `catboost`, `xgboost`, `lightgbm` |
 
 ## Контакты
-[e-mail]() 🔹 [Instagram](https://t.me/egotoire)
+[e-mail](gri9orek@yandex.ru) 🔹 [Telegram](https://t.me/egotoire)
